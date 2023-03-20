@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+	<h1 align="center">service() 메소드의 역할</h1>
+	<h3>GET 방식의 요청</h3>
+	
+	<h3>POST 방식의 요청</h3>
+</body>
+</html>

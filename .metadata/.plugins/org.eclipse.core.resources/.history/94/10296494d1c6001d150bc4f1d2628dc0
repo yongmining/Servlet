@@ -1,0 +1,7 @@
+package com.greedy.section01.servicemethod;
+
+@WebServlet("/request-service")
+public class ServiceMethodTestServlet extends HttpServlet {
+	
+
+}

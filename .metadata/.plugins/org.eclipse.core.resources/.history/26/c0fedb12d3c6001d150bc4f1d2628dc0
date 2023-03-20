@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+	<h1 align="center">service() 메소드의 역할</h1>
+	<h3>GET 방식의 요청</h3>
+	<h4>a 태그의 href 속성값 이용</h4>
+	<a href="request-service">서비스 메소드 요청하기</a>
+	
+	<h4>form 태그의 method 속성을 get으로 설정</h4>
+	
+	<h3>POST 방식의 요청</h3>
+	<h4>form 태그의 method 속성을 post로 설정</h4>
+</body>
+</html>

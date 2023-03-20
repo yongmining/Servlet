@@ -1,0 +1,15 @@
+package com.greedy.section01.servicemethod;
+
+import javax.servlet.annotation.WebServlet;
+import javax.servlet.http.HttpServlet;
+
+@WebServlet("/request-service")
+public class ServiceMethodTestServlet extends HttpServlet {
+	
+	@Override
+	public void service(HttpServletRequest request,
+			HttpServletResponse response) {
+		
+		System.out.println("오니???");
+	}
+}

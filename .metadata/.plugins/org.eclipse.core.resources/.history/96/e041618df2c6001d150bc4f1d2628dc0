@@ -1,0 +1,20 @@
+package com.greedy.section01.querystring;
+
+import javax.servlet.annotation.WebServlet;
+import javax.servlet.http.HttpServlet;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+
+@WebServlet("/querystring")
+public class QueryStringTestServlet extends HttpServlet {
+
+	@Override
+	public void doGet(HttpServletRequest request, HttpServletResponse response) {
+		
+		String name = request.getParameter("name");
+		System.out.println("이름 : " + name);
+		
+		int age = Integer.parseInt(request.getParameter("age"));
+		System.out.println("나이 : " + age);
+	}
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;chap01-life-cycle-lecture-source/src/main/java/com/greedy/section01/xml/LifeCycleTextServlet.java&apos; to &apos;LifeCycleTestServlet.java&apos;" description="Rename resource &apos;LifeCycleTextServlet.java&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/java/com/greedy/section01/xml/LifeCycleTextServlet.java" name="LifeCycleTestServlet.java" stamp="1679280825467" updateReferences="true"/>
+</session>

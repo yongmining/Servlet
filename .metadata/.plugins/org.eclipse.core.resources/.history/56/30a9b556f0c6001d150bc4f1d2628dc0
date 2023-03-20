@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+	<h1 align="center">Request Parameter</h1>
+	<form action="querystring" method="get">
+		<label>이름 : </label>
+		<input type="text" name="name">
+		<br>
+	</form>
+</body>
+</html>
